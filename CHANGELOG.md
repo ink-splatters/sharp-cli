@@ -1,6 +1,12 @@
 # Changelog
 
+## 4.2.1
+
+* High-severity CVE-2023-4863 was fixed in sharp: https://github.com/advisories/GHSA-54xq-cgqr-rpm3
+Sharp updated to 0.32.6
+
 ## 4.2.0
+
 * Exit process when there are no input files ([#83](https://github.com/vseventer/sharp-cli/issues/83)).
 
 ## 4.1.1 (March 21, 2023)
